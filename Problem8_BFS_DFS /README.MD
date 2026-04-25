@@ -1,6 +1,5 @@
 # Problem 8: Smart Navigation System
 
-VIEW LIVE WEBSITE
 https://aiproblemsolvingra2411026050269-ra2411026050242-qgeumajzeejuku.streamlit.app/
 
 ## Description
